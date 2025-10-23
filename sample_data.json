@@ -1,0 +1,7 @@
+{
+  "bpi": {
+    "USD": {"rate_float": 67654.23},
+    "GBP": {"rate_float": 55321.19},
+    "EUR": {"rate_float": 63219.87}
+  }
+}
