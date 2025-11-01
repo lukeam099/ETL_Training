@@ -1,0 +1,10 @@
+order_id,date,product,price_usd,quantity,store_id,region,total_sales
+1001,2025-01-02,Widget A,12.5,3.0,NY01,East,37.5
+1002,2025-01-02,Widget B,15.0,1.0,NY01,East,15.0
+1003,,Widget A,12.5,0.0,CA01,West,0.0
+1004,,Widget C,20.0,2.0,CA01,West,40.0
+1005,,Widget D,18.0,4.0,TX01,South,72.0
+1006,2025-03-15,Widget A,12.5,2.0,TX01,South,25.0
+1007,,Widget B,15.0,0.0,NY01,East,0.0
+1008,,Widget E,25.0,1.0,FL01,South,25.0
+1009,2025-04-02,Widget F,30.0,0.0,FL01,South,0.0
