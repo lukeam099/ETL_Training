@@ -19,3 +19,4 @@ df['region'] = df['region'].str.title()
 
 print(df.head(15))
 df.to_csv("cleaned_sales_data.csv", index=False)
+
